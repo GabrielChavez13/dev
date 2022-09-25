@@ -1,0 +1,52 @@
+ul{
+    background-color: rgb(57, 6, 70);
+    margin: 0;
+    padding: 0;
+}
+
+ul li{
+    list-style-type: none;
+    display: inline-block;
+}
+
+li a{
+    color: white;
+    display: block;
+    padding: 18px 18px;
+    text-decoration: none;
+}
+
+li a:hover{
+    background-color: greenyellow;
+    color: black;
+}
+
+.menuActivo{
+    background-color: royalblue;
+}
+
+h1{
+    color: rgba(26, 26, 207, 0.966);
+    text-align: center;
+}
+
+h2{
+    color: teal;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(24, 22, 22);
+}
+
+article{
+    color: yellowgreen;
+}
+
+section{
+     color: white;
+}
+
+figcaption{
+    color: wheat;
+}
